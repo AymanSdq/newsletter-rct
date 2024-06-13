@@ -7,10 +7,10 @@ function App() {
     <>
       <main className='w-full h-screen flex bg-darkSlateGray justify-center sm:items-center'>
         
-        <section className=' px-6 py-6 w-[70%] flex rounded-3xl bg-whiteColor'>
+        <section className=' px-6 py-6 w-[60%] flex rounded-3xl bg-whiteColor'>
           {/* form */}
-          <div className='w-[60%]'>
-            <div className='w-full h-full gap-8 flex flex-col justify-center '>
+          <div className='w-[60%] pl-4 pr-6'>
+            <div className='w-[80%] items-center h-full gap-8 flex flex-col justify-center '>
               <h1 className='text-6xl font-bold'>Stay updated!</h1>
               <p>Join 60,000+ product managers receiving monthly updates on:</p>
               <ul>
@@ -28,9 +28,10 @@ function App() {
                 </li>
               </ul>
 
-              <div className='flex flex-col gap-2'>
+              <div className='flex w-full flex-col gap-3'>
                 <label htmlFor="Email">Email addresse</label>
                 <input className='border flex rounded-md py-2 px-4' type="email" placeholder='email@company.com' />
+                <button className=' rounded-md my-2 py-3 bg-charcoalGray text-whiteColor'>Subscribe to monthly newsletter</button>
               </div>
             </div>  
           </div>
