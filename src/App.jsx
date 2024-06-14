@@ -15,15 +15,15 @@ function App() {
               <p>Join 60,000+ product managers receiving monthly updates on:</p>
               <ul>
                 <li className='flex gap-2'>
-                  <img src="/public/icon-list.svg" alt="List icons" />
+                  <img src="/icon-list.svg" alt="List icons" />
                   Product discovery and building what matters
                 </li>
                 <li className='flex gap-2 my-3'>
-                  <img src="/public/icon-list.svg" alt="List icons" />
+                  <img src="/icon-list.svg" alt="List icons" />
                   Measuring to ensure updates are a success
                 </li>
                 <li className='flex gap-2'>
-                  <img src="/public/icon-list.svg" alt="List icons" />
+                  <img src="/icon-list.svg" alt="List icons" />
                   And much more!
                 </li>
               </ul>
@@ -37,7 +37,7 @@ function App() {
           </div>
           {/* Image */}
           <div className='w-[40%]'>
-            <img className='w-full' src="/public/illustration-sign-up-desktop.svg" alt="Images" />
+            <img className='w-full' src="/illustration-sign-up-desktop.svg" alt="Images" />
           </div>
         </section>
 
