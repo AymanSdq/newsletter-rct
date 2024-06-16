@@ -30,8 +30,8 @@ function App() {
 
               <div className='flex w-full flex-col gap-3'>
                 {/* We must turn this into form */}
-                <form action="">
-                  <div>
+                <form action="" className=' '>
+                  <div className='w-full flex flex-col'>
                     <label htmlFor="Email">Email addresse</label>
                     <input className='border flex rounded-md py-2 px-4' type="email" placeholder='email@company.com' />
                     <button className=' rounded-md my-2 py-3 bg-charcoalGray text-whiteColor'>Subscribe to monthly newsletter</button>
