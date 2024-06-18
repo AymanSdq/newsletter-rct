@@ -29,7 +29,7 @@ function App() {
               </ul>
 
               <div className='flex w-full flex-col gap-3'>
-                {/* We must turn this into form */}
+
                 <form action="" className='w-full'>
                   <div className='w-full flex flex-col'>
                     <label htmlFor="Email">Email addresse</label>
