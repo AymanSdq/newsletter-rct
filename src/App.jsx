@@ -29,7 +29,6 @@ function App() {
               </ul>
 
               <div className='flex w-full flex-col gap-3'>
-
                 <form action="" className='w-full'>
                   <div className='w-full flex flex-col'>
                     <label htmlFor="Email">Email addresse</label>
@@ -38,7 +37,7 @@ function App() {
                   </div>
                 </form>
               </div>
-                
+                {/* Couldn't finish */}
             </div>  
           </div>
           {/* Image */}
