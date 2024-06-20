@@ -37,7 +37,7 @@ function App() {
                   </div>
                 </form>
               </div>
-                {/* Couldn't finish */}
+
             </div>  
           </div>
           {/* Image */}
