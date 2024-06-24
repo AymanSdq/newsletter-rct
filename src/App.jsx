@@ -24,7 +24,7 @@ function App() {
                 </li>
                 <li className='flex gap-2'>
                   <img src="/icon-list.svg" alt="List icons" />
-                  And much more!    
+                  And much more!              
                 </li>
               </ul>
 
