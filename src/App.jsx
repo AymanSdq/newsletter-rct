@@ -35,7 +35,7 @@ function App() {
                     <input className='border flex rounded-md py-2 px-4' type="email" placeholder='email@company.com' />
                     <button className=' rounded-md my-2 py-3 bg-charcoalGray text-whiteColor'>Subscribe to monthly newsletter</button>
                   </div>
-                </form>
+                </form>.   
               </div>
       
             </div>  
