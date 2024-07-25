@@ -26,7 +26,7 @@ function App() {
                   <img src="/icon-list.svg" alt="List icons" />
                   And much more!   
                 </li>    
-              </ul>     
+              </ul>         
 
               <div className='flex w-full flex-col gap-3'>
                 <form action="" className='w-full'>
